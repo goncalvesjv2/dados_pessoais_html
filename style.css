@@ -1,0 +1,29 @@
+.dados-pessoais{
+     color: white;
+     background-color:black;
+     font-size: large;
+}
+
+.residencia{
+     color: white;
+     background-color:black;
+     font-size: large;
+}
+
+.familia{
+     color: white;
+     background-color: black;
+     font-size: large;
+}
+
+.saude{
+     color: white;
+     background-color: black;
+     font-size: large;
+}
+
+#concluido{
+     width: 200px;
+     height: 100px;
+     color: blueviolet;
+}
