@@ -1,0 +1,40 @@
+.dados-pessoais {
+     color: white;
+     background-color:black;
+     font-size: large;
+     border: 5px solid purple;
+     text-shadow: 10px 10px 5px white;
+}
+
+.residencia {
+     color: white;
+     background-color:black;
+     font-size: large;
+     border: 5px solid purple;
+     text-shadow: 10px 10px 5px white;
+}
+
+.familia {
+     color: white;
+     background-color: black;
+     font-size: large;
+     border: 5px solid purple;
+     text-shadow: 10px 10px 5px white;
+}
+
+.saude {
+     color: white;
+     background-color: black;
+     font-size: large;
+     border: 5px solid purple;
+     text-shadow: 10px 10px 5px white;
+}
+
+#concluído {
+     width: 200px;
+     height: 100px;
+     color: black;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+}
